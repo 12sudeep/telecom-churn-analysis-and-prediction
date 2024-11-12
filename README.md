@@ -45,7 +45,7 @@ The app uses a **Random Forest** model trained on a dataset of telecom customer 
 
 ## Screenshots
 
-![Streamlit App Screenshot](images/ss-image.png)
+![Streamlit App Screenshot](images/ss.png)
 
 ## Future Enhancements
 
